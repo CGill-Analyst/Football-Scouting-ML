@@ -23,7 +23,5 @@ Below are the top 5 "Hidden Gems" identified by the engine in the most recent ru
 | **Stanis Idumbo** | Monaco | 20 | **+0.292** |
 | **Dilane Bakwa** | Strasbourg | 23 | **+0.251** |
 | **Stefanos Tzimas** | Brighton | 20 | **+0.249** |
-| **Player Name** | Squad | Age | **+0.XXX** |
-| **Player Name** | Squad | Age | **+0.XXX** |
 
 > *Note: A higher Value Difference indicates the player is significantly overperforming their expected technical output based on current age and league difficulty.*
