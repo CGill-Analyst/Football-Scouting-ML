@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+.venv_final/
+__pycache__/
+.idea/
+
+# Ignore raw data (standard practice)
+data/*.csv
+
+# Keep the reports folder structure but ignore the actual CSVs
+reports/*.csv
+!reports/.gitkeep
